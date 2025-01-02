@@ -13,3 +13,10 @@ Heart Health AI does more than just assess risk; it fosters proactive heart heal
 The chatbot’s design makes it accessible to a wide audience, ensuring that even individuals with limited medical knowledge can engage with it effectively. By leveraging artificial intelligence, Heart Health AI bridges the gap between users and preventive healthcare, promoting awareness and encouraging healthier choices.
 
 In summary, Heart Health AI represents a significant advancement in leveraging technology to combat cardiovascular diseases. Its intuitive interface, personalized assessments, and actionable advice empower individuals to take charge of their heart health. By addressing the gaps in awareness, diagnosis, and proactive care, Heart Health AI showcases how artificial intelligence can revolutionize health management, improve lives, and foster healthier communities. This innovative tool is a step forward in creating accessible, scalable solutions for one of the most pressing health challenges of our time.
+
+## Clone this Repository
+
+To clone this repository, run the following command in your terminal:
+
+```bash
+https://github.com/theManiac218/heartheatlth.git
