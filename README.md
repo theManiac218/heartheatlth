@@ -20,3 +20,8 @@ To clone this repository, run the following command in your terminal:
 
 ```bash
 https://github.com/theManiac218/heartheatlth.git
+```
+
+## Requirements
+
+Install Ollama to use a LLM locally or change the environment to use another LLM using a API key.
