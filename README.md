@@ -33,10 +33,15 @@ HeartHealth AI is an intelligent chatbot designed to assess the risk of heart at
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the application:
+3. Install Ollama, pull and run the required model (llama3.1):
+   ```bash
+   https://ollama.com
+   ```    
+4. Run the application:
    ```bash
    python app.py
    ```
+
 
 ---
 
